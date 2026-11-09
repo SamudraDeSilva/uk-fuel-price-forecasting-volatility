@@ -1,0 +1,13 @@
+# Minimal direct runtime dependencies; pin exact versions after verifying a clean rerun.
+# The notebook was authored in a Python 3 environment; metadata reports Python 3.13.
+jupyterlab
+ipython
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+statsmodels
+torch

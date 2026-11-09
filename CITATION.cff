@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this research notebook or its code, please cite this repository and identify the author."
+title: "Forecasting UK Retail Fuel Prices and Volatility Using Machine Learning and Time-Series Models: The Role of Exogenous Economic Factors"
+type: software
+authors:
+  - given-names: Samudra Nimesh
+    family-names: De Silva
+    orcid: "https://orcid.org/0009-0004-7423-3066"

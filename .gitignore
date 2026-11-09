@@ -1,0 +1,19 @@
+# Dataset CSVs should never be committed until redistribution rights are verified.
+*.csv
+
+# Notebooks / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environments, local credentials, OS and editor settings
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
