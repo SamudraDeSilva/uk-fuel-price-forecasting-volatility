@@ -73,6 +73,8 @@ The notebook includes saved figures and retrospective analysis results so that t
 - [FRED USD per GBP exchange rate (DEXUSUK)](https://fred.stlouisfed.org/series/DEXUSUK)
 - [DESNZ weekly road fuel prices](https://www.gov.uk/government/statistics/weekly-road-fuel-prices)
 
-## Citation, code licence and publication
+## Citation and Reuse
 
-A [CITATION.cff](CITATION.cff) file provides an attribution format for this research code. The accompanying manuscript has not been assigned a DOI in this repository. Before making the repository public, confirm any applicable conference double-blind review requirements. Choose and add a licence for your own **code** (for example MIT, if desired); this would not automatically grant permission to redistribute third-party input datasets.
+This research was conducted by Samudra Nimesh De Silva as part of an independent study on UK retail fuel-price forecasting and volatility using machine learning and time-series models.
+
+Researchers and practitioners referencing this work are encouraged to cite the project using the information provided in [CITATION.cff](CITATION.cff)
