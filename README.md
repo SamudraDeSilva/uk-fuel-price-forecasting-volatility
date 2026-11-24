@@ -78,3 +78,7 @@ The notebook includes saved figures and retrospective analysis results so that t
 This research was conducted by Samudra Nimesh De Silva as part of an independent study on UK retail fuel-price forecasting and volatility using machine learning and time-series models.
 
 Researchers and practitioners referencing this work are encouraged to cite the project using the information provided in [CITATION.cff](CITATION.cff)
+
+## Licence
+
+This project's original source code is released under the [MIT License](LICENSE), permitting reuse, modification and distribution with appropriate copyright attribution. Third-party datasets, including UK Fuel Finder records and FRED economic indicators, remain subject to their respective providers' licensing terms.
